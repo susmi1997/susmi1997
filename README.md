@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Susmita
+- 👋 Hi, I’m Susmita
 - 👀 I’m interested in ...Coding and devolopment.
 - 🌱 I’m currently learning ..."Java","Python" and "AI with Machine Learning".
 - 💞️ I’m looking to collaborate on IT Industry
